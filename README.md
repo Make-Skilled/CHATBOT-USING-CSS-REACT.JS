@@ -1,4 +1,4 @@
-# AI ChatBot App
+# AI ChatBot App using REACT JS & CSS
 
 A modern, full-stack AI chatbot web application. Chat in real time with an AI assistant powered by Cohere, featuring a beautiful, responsive UI and a secure, privacy-focused backend.
 
@@ -27,7 +27,7 @@ A modern, full-stack AI chatbot web application. Chat in real time with an AI as
 ```bash
 # Replace <your-repo-url> with the actual URL
 git clone <your-repo-url>
-cd chatbot-app
+cd CHATBOT-USING-CSS-REACT.JS
 ```
 
 ### 2. Install Backend Dependencies
